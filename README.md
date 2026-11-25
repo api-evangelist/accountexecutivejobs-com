@@ -66,7 +66,7 @@
 
 AccountExecutiveJobs.com is a niche job board focused on connecting sales professionals, especially account executives, with employers. It offers specialized listings that highlight compensation, territory, and sales motion, helping candidates quickly assess fit. Employers can post reusable job slots, access templates, and tools for hiring sales talent. The platform emphasizes transparency of pay and role specifics, catering to SaaS, B2B, and revenue teams.
 
-**Areas:** Company · JobBoard · Sales · Hiring · SaaS · B2B
+**Areas:** Company · Job Board · Sales · Hiring · Software-as-a-Service · B2B
 
 ## AccountExecutiveJobs.com on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Accountexecutivejobs Com Agentic Access](https://apis.io/agentic-access/accountexecutivejobs-com/accountexecutivejobs-com-agentic-access/)
+- [AccountExecutiveJobs.com Agentic Access](https://apis.io/agentic-access/accountexecutivejobs-com/accountexecutivejobs-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -96,14 +96,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Accountexecutivejobs Com Domain Security](https://apis.io/security/accountexecutivejobs-com/accountexecutivejobs-com-domain-security/)
-- [Accountexecutivejobs Com Vulnerability Disclosure](https://apis.io/security/accountexecutivejobs-com/accountexecutivejobs-com-vulnerability-disclosure/)
+- [AccountExecutiveJobs.com Domain Security](https://apis.io/security/accountexecutivejobs-com/accountexecutivejobs-com-domain-security/)
+- [AccountExecutiveJobs.com Vulnerability Disclosure](https://apis.io/security/accountexecutivejobs-com/accountexecutivejobs-com-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Accountexecutivejobs Com Plans Pricing](https://apis.io/plans/accountexecutivejobs-com/accountexecutivejobs-com-plans-pricing/)
+- [AccountExecutiveJobs.com Plans Pricing](https://apis.io/plans/accountexecutivejobs-com/accountexecutivejobs-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -118,42 +118,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 44.4** — developing · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 41.8** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 69.6 |
-| Contract quality | 35.5 |
-| Contract governance | 65.5 |
-| Operational transparency | 10.5 |
+| Discoverability | 87.5 |
+| Contract quality | 38.6 |
+| Contract governance | 18.2 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 11.9 |
-| Access clarity | 73.2 |
+| Access clarity | 76.6 |
 
-**Agent readiness 44.8** — agent-ready (gated down from agent-native)
+**Agent readiness 44.4** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | na |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
-| Idempotency | — |
+| Idempotency | na |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
-| Dry Run Mode | — |
+| Dry Run Mode | na |
 | Delegated Identity | served (partial credit) |
 | Protected Resource Metadata | verified |
 | Dynamic Client Registration | yes |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | yes |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
 
